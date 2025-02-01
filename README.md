@@ -2,9 +2,9 @@ Here is the updated description for the tes3conv GUI version on GitHub:
 
 # tes3conv GUI
 
-Get the latest version from the [releases](https://github.com/MrZer0/tes3conv-gui/releases) page.
+Get the latest version from the [releases]([[https://github.com/MrZer0/tes3conv_gui]) page.
 
-A graphical user interface for the [tes3conv](https://github.com/Greatness7/tes3conv) command-line tool, with support for 1C encoding decoding. The program allows you to easily convert Morrowind plugin files (ESP/ESM) to JSON and back through a user-friendly interface.
+A graphical user interface for the [tes3conv](https://github.com/Greatness7/tes3conv)(by Greatness7) command-line tool, with support for 1C encoding decoding. The program allows you to easily convert Morrowind plugin files (ESP/ESM) to JSON and back through a user-friendly interface.
 
 ```
 A graphical utility for converting Morrowind plugins (.esp) to JSON files (.json) and vice-versa.
