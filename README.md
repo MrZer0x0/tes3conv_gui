@@ -1,3 +1,5 @@
+  ![](main.jpg?raw=true "Title")
+
 Here is the updated description for the tes3conv GUI version on GitHub:
 
 # tes3conv GUI
